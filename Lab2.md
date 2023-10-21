@@ -1,5 +1,5 @@
   **Part 1**<br>
-![Image](Lab1_P1_SS_class.png)<br>
+![Image](Lab2_P1_SS_class.png)<br>
 Screenshot 1:<br>
 Which methods in your code are called?<br>
 The handleRequest method is called.<br>
@@ -19,6 +19,6 @@ The relevant arguments include the url which is parsed to extract the value of s
 
 How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.<br>
 The count was initially 2 and it was incremented to 3. The new string (Talia) was added to the s string.<br>
- ![Image](Lab1_P1_SS2.png)<br>
+ ![Image](Lab2_P1_SS2.png)<br>
  **Part 2**
  
