@@ -9,7 +9,7 @@ the relevant arguments include the url which is parsed to extract the value of s
 
 How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.<br>
 The count was initially 1 and it was incremented to 2. The new string (Rayna) was also added to the s string.<br>
- ![Image](Lab2_P1_SS1.png)<br>
+ ![Image](Lab2_P1_SS.png)<br>
 Screenshot 2:<br>
 Which methods in your code are called?<br>
 The handleRequest method is called <br>
@@ -19,14 +19,14 @@ The relevant arguments include the url which is parsed to extract the value of s
 
 How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.<br>
 The count was initially 2 and it was incremented to 3. The new string (Talia) was added to the s string.<br>
- ![Image](Lab2_P1_SS2.png)<br>
+ ![Image](Lab2_P1_SS1.png)<br>
  **Part 2**<br>
  Path to the private key<br>
  The private key is given by the first line (the one without _pub added at the end)<br>
- ![Image](Lab2_P2_PubK.png)<br>
+ ![Image](Lab2_P1_PubK.png)<br>
  Path to the public key<br> 
  ls - the files within wavelet.. <br>
- ![Image](Lab2_P2_PubK.png)<br>
+ ![Image](Lab2_P1_PubK.png)<br>
  Interaction where I didn't have to include my password to sign into the course-specific account.<br>
  ls- also within the wavelet directory<br>
  ![Image](Lab2_P2_No_Pass.png)<br>
