@@ -31,6 +31,6 @@ The count was initially 2 and it was incremented to 3. The new string (Talia) wa
  ls- also within the wavelet directory<br>
  ![Image](Lab2_P2_No_Pass.png)<br>
  
- **Part 3** 
+ **Part 3** <br>
  Before this class I didn't know anything about the command line or GitHub, I had just very minimally heard about it. These past weeks I learned how to change directories using the terminal, how to create a server and how to add files into a GitHub repository. Surely these skills will be very useful in the future to both showcase and enhance my coding skills. 
  
