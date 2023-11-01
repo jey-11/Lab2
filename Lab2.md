@@ -2,7 +2,7 @@
 ![Image](Lab2_P1_SS_class.png)<br>
 Screenshot 1:<br>
 Which methods in your code are called?<br>
-The handleRequest method is called.<br>
+The handleRequest method is called. Also in the Server class the main method and the create context method within the method is called. Within the handleRequest method get query is called and so is some methods from the String class.  <br>
 
 What are the relevant arguments to those methods, and the values of any relevant fields of the class?<br>
 the relevant arguments include the url (port url-seen in the image below with the /add-message?s=Rayna) which is parsed to extract the value of s given(Rayna). The value of relevant fields include count and s. The value of count is currently 2. The value of s is given by the output.<br>
