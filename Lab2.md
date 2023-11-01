@@ -21,16 +21,14 @@ How do the values of any relevant fields of the class change from this specific 
 The count was initially 2 and it was incremented to 3. The new string (Talia) was added to the s string.<br>
  ![Image](Lab2_P1_SS1.png)<br>
  **Part 2**<br>
- Path to the private key<br>
- The private key is given by the first line (the one without _pub added at the end)<br>
- ![Image](Lab2_P1_PubK.png)<br>
- Path to the public key<br> 
- ls - the files within wavelet.. <br>
- ![Image](Lab2_P1_PubK.png)<br>
+ Path to the private/public key<br>
+ The private key is given by id_rsa. Path to public key is given by id_rsa.pub<br>
+ ![Image](Lab2_PubPriK.png)<br>
  Interaction where I didn't have to include my password to sign into the course-specific account.<br>
  ls- also within the wavelet directory<br>
  ![Image](Lab2_P2_No_Pass.png)<br>
- 
+  ![Image](Lab2_P2_No_Pass_2.png)<br>
+
  **Part 3** <br>
  Before this class I didn't know anything about the command line or GitHub, I had just very minimally heard about it. These past weeks I learned how to change directories using the terminal, how to create a server and how to add files into a GitHub repository. Surely these skills will be very useful in the future to both showcase and enhance my coding skills. 
  
